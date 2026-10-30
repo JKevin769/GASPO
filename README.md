@@ -1,2 +1,2 @@
 # GASPO
-flutter run -d web-server
+executar no terminal vscode: flutter run -d web-server
